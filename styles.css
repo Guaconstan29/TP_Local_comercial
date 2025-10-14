@@ -336,8 +336,8 @@ footer p {
   }
 
   .header-top h1 {
-    font-size: 1.3rem; /* TITULO MAS CHICO */
-    max-width: 70%; /* PARA QUE NO SE TAPE CON EL LOGO */
+    font-size: 1.1rem; /* TITULO MAS CHICO */
+    max-width: 65%; /* PARA QUE NO SE TAPE CON EL LOGO */
     line-height: 1.2;
   }
 
@@ -347,7 +347,7 @@ footer p {
   }
 
   .main-nav a {
-    font-size: 0.9rem; /* FUENTE MAS CHICA */
+    font-size: 0.8rem; /* FUENTE MAS CHICA */
   }
 }
 
@@ -525,3 +525,4 @@ footer p {
   margin-bottom: 2rem;
   font-size: 1rem;
 }
+
